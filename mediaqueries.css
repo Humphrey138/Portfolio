@@ -84,5 +84,8 @@
     .text-container{
         text-align: justify;
     }
+    .section__pic-container{
+        margin-bottom: 30px;
+    }
 
 }
